@@ -5,12 +5,12 @@ You can use the [editor on GitHub](https://github.com/WEIHEYU/WEIHEYU.github.io/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Heyu Wei(魏荷雨）
+I am a student from Nanjing Normal University, I majored in management of information system
 
 
-
-# Header 1
-## Header 2
-### Header 3
+# Experience
+## Projects
+### work
 
 - Bulleted
 - List
